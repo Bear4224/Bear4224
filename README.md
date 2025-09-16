@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob Showman.
-- 👀 I’m interested in woodworking.
-- 🌱 I’m currently learning GMAT.
+- 👀 I’m interested in building a cyberdeck.
+- 🌱 I’m currently learning Bash.
 
 <!---
 Bear4224/Bear4224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
